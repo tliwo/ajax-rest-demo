@@ -14,4 +14,5 @@ for i in range(h):
 	print(temp)
 	zeitpunkt = zeitpunkt + delta(minutes=15)
 	print(zeitpunkt)
+	print("test")
 	time.sleep(1)
